@@ -1,0 +1,54 @@
+/* Navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Heaadings */
+.headings{
+    font-size: 1.6rem;
+}
+
+/* Gallery Images */
+.gallery img{
+    width: 270px;
+    height: 360px;
+}
+
+/* About Section */
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+
+.about img{
+    width: 200px;
+    height: 150px;
+    padding: 0px 15px;
+}
+/* Message box */
+#messages{
+    width: 40%;
+    height: 200px;
+}
+
+/* Boxes */
+.box{
+    height: 150px;
+    width: 250px;
+    background-color: #858698;
+    border-radius: 20px;
+    margin:10px;
+    padding: 10px;
+}
+.box h2{
+    color:#7e83d4;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.box p{
+    color:antiquewhite;
+    font-size: .8rem;
+}
